@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BeautyBooking</string>
+    <string name="date_btn">На удобную дату и время</string>
+    <string name="service_btn">на определенную услугу</string>
+    <string name="salon_btn">в конкретный салон</string>
+    <string name="info_btn">узнать об услугах и сравнить цены</string>
+    <string name="writing_text">Записаться</string>
+    <string name="info_act">Информация</string>
+    <string name="log_in">Войти</string>
+    <string name="booking">Как вы хотите записаться?</string>
+    <string name="datepick">datepick_frag</string>
+    <string name="timepick">timepick_frag</string>
+
+</resources>
